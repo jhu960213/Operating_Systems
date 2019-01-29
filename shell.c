@@ -40,7 +40,6 @@ void displayShellPromptAndPassCommand() {
             }
         } else {
             freopen("/dev/tty", "r", stdin);
-            break;
         }
     }
 }
