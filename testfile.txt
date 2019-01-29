@@ -1,0 +1,16 @@
+help
+set x 10
+set y mary
+set x bob
+print x
+print y
+set x Jack
+set y Emily
+print y
+set w Ben
+set Ben 23
+print w
+print Ben
+unknown command
+jdkfdks jdk
+help
